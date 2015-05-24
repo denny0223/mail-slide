@@ -1,34 +1,33 @@
-title: union-training-mail
+title: Use mail!
 output: index.html
 theme: jdan/cleaver-retro
 
 --
 
-## 資訊社團聯合幹訓
 <div align="center">
   <br />
   <br />
-  <span style="font-size: 40px">
-    關於網路的兩三事<br />
-    電子郵件禮儀、資料搜尋技巧等等<br />
+  <span style="font-size: 50px">
+    為什麼聰明人都用電子郵件？<br />
   </span>
   <br />
   <br />
   Denny Huang<br />
-  2014 / 07 / 31
+  2015 / 05 / 03
 </div>
 
 --
 
-### Denny Huang
+### Who am I ?
+
 <br />
+<h2 style="font-size: 60px">
+  <b>Denny Huang</b>
+</h2>
+
 * SITCON 2013, 2014 總召
 
-
-* 大同大學 資工系
-
-
-* 大同大學 資訊創意研究社 創社社長, 顧問
+* <a href="http://about.me/denny0223" target="_blank">About me</a>
 
 --
 
@@ -41,7 +40,8 @@ theme: jdan/cleaver-retro
 * 需立即回覆？
 * 事情能夠交代完整？
 * 紀錄有辦法容易追蹤？
-* 具有任何追溯效力？
+* 容易追溯？
+* 方便標記對象？
 
 ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](http://www.playpcesor.com/2014/06/line-work.html)
 
@@ -116,7 +116,7 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 
 * 說話的藝術
 	* 國文造詣Orz
-	* 您 請 謝謝 麻煩 .....
+	* 您 請 謝謝 麻煩 拜託 .....
 
 --
 
@@ -159,16 +159,11 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 
 --
 
-# 慘案
+# 引用慘案
 
 --
 
 # 討論結果的彙整 或 通知
-
---
-
-# Mailing list
-## Google Groups
 
 --
 
@@ -220,7 +215,37 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 
 --
 
-# [GMail Meter](https://developers.google.com/apps-script/articles/gmail-stats)
+# Mailing list
+## Google Groups
+
+--
+
+<div align="center">
+  <br />
+  <br />
+  <span style="font-size: 70px">
+    Mailing list<br />
+    與<br />
+    開源<br />
+  </span>
+</div>
+
+--
+
+* 什麼樣的發言可以發到mail群？
+* 是不是要文字很正式、用詞用句、標點符號字字斟酌？
+* 前面要加 [SITCON] 嗎？
+* 我可以在信件中用表情符號、網路用語、注音字嗎？
+* 收到信件多久要回覆？我該不該回覆？
+* 可以用信件討論、聊天嗎？
+* 開頭跟結尾我要寫嗎？應該怎麼寫？
+* 信件的格式、排版、字型要不要統一？怎麼處理？
+* 網址要不要縮網址？怎麼處理？
+* 我可以一封信寫給很多人嗎？很多收件者的話呢？
+
+--
+
+# GMail Meter
 
 --
 
@@ -228,34 +253,28 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 
 --
 
+# [Streak](https://chrome.google.com/webstore/detail/streak-for-gmail/pnnfemgpilpdaojpnkjdgfgbnnjojfik)
+
+--
+
 # Mandrill
+<div align="center">
+[docs](https://mandrillapp.com/api/docs/)
+</div>
 
 --
 
-### Search
+## Send API
 
-* 英文
+* [curl](https://mandrillapp.com/api/docs/messages.curl.html#method=send)
 
-	* tutorial, symbol
-
-* Evernote
-
-* [Search tips](http://www.google.com/insidesearch/tipstricks/all.html)
+* [node.js](https://mandrillapp.com/api/docs/messages.nodejs.html#method=send)
 
 --
 
-### Google Hacking
-
-* inurl:phpinfo.php ext:php
-
-* ext:bak inurl:php.bak
-
-* "parent directory " MP3 -xxx -html -htm -php -shtml -opendivx -md5 -md5sums
-
---
 
 # Q & A
 
---
+---
 
 # Thanks for listening
