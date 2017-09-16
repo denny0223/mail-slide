@@ -13,7 +13,6 @@ theme: jdan/cleaver-retro
   <br />
   <br />
   Denny Huang<br />
-  2015 / 05 / 03
 </div>
 
 --
@@ -27,7 +26,7 @@ theme: jdan/cleaver-retro
 
 * SITCON 2013, 2014 總召
 
-* <a href="http://about.me/denny0223" target="_blank">About me</a>
+* <a href="https://denny.one" target="_blank">About me</a>
 
 --
 
@@ -44,10 +43,6 @@ theme: jdan/cleaver-retro
 * 方便標記對象？
 
 ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](http://www.playpcesor.com/2014/06/line-work.html)
-
---
-
-# 慘案
 
 --
 
@@ -194,7 +189,7 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 * 轉寄至多人
 
 
-### other
+### Other
 
 * 篩選器
 
@@ -241,34 +236,14 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 * 開頭跟結尾我要寫嗎？應該怎麼寫？
 * 信件的格式、排版、字型要不要統一？怎麼處理？
 * 網址要不要縮網址？怎麼處理？
-* 我可以一封信寫給很多人嗎？很多收件者的話呢？
 
 --
 
-# GMail Meter
-
---
-
-# 帳戶活動
+# [Gmail Meter](https://www.gmailmeter.com/)
 
 --
 
 # [Streak](https://chrome.google.com/webstore/detail/streak-for-gmail/pnnfemgpilpdaojpnkjdgfgbnnjojfik)
-
---
-
-# Mandrill
-<div align="center">
-[docs](https://mandrillapp.com/api/docs/)
-</div>
-
---
-
-## Send API
-
-* [curl](https://mandrillapp.com/api/docs/messages.curl.html#method=send)
-
-* [node.js](https://mandrillapp.com/api/docs/messages.nodejs.html#method=send)
 
 --
 
