@@ -253,3 +253,12 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 ---
 
 # Thanks for listening
+
+<br /><br /><br />
+<div align="center">
+  <img style="width:100px;" src="./img/by-sa.png" />
+</div>
+<h2 style="font-size: 18px">
+本投影片採用<a href="http://creativecommons.org/licenses/by-sa/3.0/tw/" target="_blank">創用 CC「姓名標示—相同方式分享 3.0 台灣」授權條款</a>
+</h2>
+
