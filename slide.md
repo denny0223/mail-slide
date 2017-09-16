@@ -46,6 +46,18 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 
 --
 
+<div align="center">
+  <img style="height:550px;" src="./img/ByeByeChuChu.png" />
+</div>
+<div align="right">
+  <font size="3">
+    ref:&nbsp;
+	<a href="https://www.facebook.com/ByeByeChuChu/posts/1697220723630443" target="_blank">https://www.facebook.com/ByeByeChuChu/posts/1697220723630443</a>&nbsp;
+  </font>
+</div>
+
+--
+
 <br />
 <br />
 <br />
@@ -121,6 +133,7 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 	* 日期, 時間, 地點, Link
 
 * 結尾署名
+	* 簽名檔
 
 * 錯字！！
 
@@ -135,6 +148,7 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 ### 回覆
 
 * 回覆所有人
+	* 注意原寄件人是否在收件人
 
 * 回覆位置
 
@@ -176,7 +190,7 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 
 * 以這個地址寄送郵件
 
-* 研究室 取消傳送
+* 取消傳送
 
 * 休假回覆
 
@@ -210,7 +224,7 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 
 --
 
-# Mailing list
+# Mailing List
 ## Google Groups
 
 --
@@ -219,7 +233,7 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
   <br />
   <br />
   <span style="font-size: 70px">
-    Mailing list<br />
+    Mailing List<br />
     與<br />
     開源<br />
   </span>
@@ -227,7 +241,12 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 
 --
 
-* 什麼樣的發言可以發到mail群？
+# 多人協作
+## CC mailing list / 共用信箱
+
+--
+
+* 什麼樣的發言可以發到 mailing list？
 * 是不是要文字很正式、用詞用句、標點符號字字斟酌？
 * 前面要加 [SITCON] 嗎？
 * 我可以在信件中用表情符號、網路用語、注音字嗎？
@@ -239,14 +258,20 @@ ref: [我們真要用 LINE 談論公事嗎？小心即時反害了工作效率](
 
 --
 
+# 狀態追蹤
+## [範例](https://docs.google.com/spreadsheets/d/1JOX2AmOKs1EssQUZJT1znLGnYcq_KGbjOS2S4RPJPI8/)
+
+--
+
 # [Gmail Meter](https://www.gmailmeter.com/)
 
 --
 
 # [Streak](https://chrome.google.com/webstore/detail/streak-for-gmail/pnnfemgpilpdaojpnkjdgfgbnnjojfik)
 
---
+## 監看 / [郵件合併](https://www.youtube.com/watch?v=5jx7sdoYis8) / 稍後發送
 
+--
 
 # Q & A
 
